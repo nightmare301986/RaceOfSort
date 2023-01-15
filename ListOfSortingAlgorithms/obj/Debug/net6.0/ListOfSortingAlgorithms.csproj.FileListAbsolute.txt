@@ -1,0 +1,12 @@
+C:\Users\ЕвгенийП\Desktop\RaceOfSort\ListOfSortingAlgorithms\bin\Debug\net6.0\ListOfSortingAlgorithms.deps.json
+C:\Users\ЕвгенийП\Desktop\RaceOfSort\ListOfSortingAlgorithms\bin\Debug\net6.0\ListOfSortingAlgorithms.dll
+C:\Users\ЕвгенийП\Desktop\RaceOfSort\ListOfSortingAlgorithms\bin\Debug\net6.0\ListOfSortingAlgorithms.pdb
+C:\Users\ЕвгенийП\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\ListOfSortingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\ЕвгенийП\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\ListOfSortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕвгенийП\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\ListOfSortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\ЕвгенийП\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\ListOfSortingAlgorithms.AssemblyInfo.cs
+C:\Users\ЕвгенийП\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\ListOfSortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\ЕвгенийП\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\ListOfSortingAlgorithms.dll
+C:\Users\ЕвгенийП\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\refint\ListOfSortingAlgorithms.dll
+C:\Users\ЕвгенийП\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\ListOfSortingAlgorithms.pdb
+C:\Users\ЕвгенийП\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\ref\ListOfSortingAlgorithms.dll
